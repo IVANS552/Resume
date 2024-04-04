@@ -1,11 +1,8 @@
 h1{
     text-align: center;
-    color: rgb(96, 158, 177);
+    color: rgb(146, 207, 226);
     font-style:italic;
     font-family:Georgia, 'Times New Roman', Times, serif;
-}
-hr{
-    text-align: center;
 }
 h2{
     font-weight: lighter;
@@ -14,9 +11,17 @@ h2{
 }
 #leftside{
     text-align: left;
-    background-color: rgb(146, 236, 248);
+    background-color: beige;
+    margin: 0px 10px 10px 
 }
 #rightside{
     text-align:right ;
-    background-color:beige;
+    background-color: rgb(188, 238, 245);
+    margin: 0px 10px 10px 
+}
+#res{
+    text-align: center;
+    margin-top: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-style: oblique;
 }
