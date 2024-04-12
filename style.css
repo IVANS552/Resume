@@ -13,6 +13,9 @@ h3{
     margin: 10px;
 
 }
+p{
+    margin: 15px;
+}
 #leftside{
     text-align: left;
     background-color: beige;
