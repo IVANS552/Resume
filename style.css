@@ -40,9 +40,6 @@ p{
     height: 200px;
     padding: 0.5em;
     margin-left: 20px;
-    transition-property: color;
-    transition-duration: 2s;
-    transition-timing-function: ease-out;
 }
 #res{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
